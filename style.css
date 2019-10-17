@@ -1,0 +1,21 @@
+html, body {
+    height: 200%;
+}
+
+#balloon, #explosion, #text {
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+#explosion {
+    font-size: 70px;
+    visibility: hidden;
+}
+
+#text {
+    font-size: 20px;
+    visibility: hidden;
+}
